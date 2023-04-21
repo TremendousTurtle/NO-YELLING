@@ -35,7 +35,7 @@ const rollupConfig = [
     },
     output: {
       format: 'iife',
-      file: `${DIST}/${FILENAME}.user.js`,
+      file: `${DIST}/NO-YELLING.user.js`,
       ...bundleOptions,
     },
   },
