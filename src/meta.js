@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name        NO YELLING - instructure.com
-// @namespace   Violentmonkey Scripts
+// @namespace   TremendousTurtle Violentmonkey Scripts
 // @description This is a userscript.
-// @match       *://sdccd.instructure.com/courses/2449129/*
+// @match       *://*.instructure.com/courses/*
 // @grant       none
 // @version     process.env.VERSION
 // @author      process.env.AUTHOR
 // @require     https://cdn.jsdelivr.net/npm/js-convert-case@4.2.0/dist/js-convert-case.min.js
-// @require     https://cdn.jsdelivr.net/combine/npm/@violentmonkey/dom@2,npm/@violentmonkey/ui@0.7
 // ==/UserScript==
 
 /**
