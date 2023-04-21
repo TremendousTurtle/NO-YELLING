@@ -1,7 +1,7 @@
 {
   "name": "no-yelling",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Sets all text in Canvas to sentence case.",
   "author": "cking",
   "license": "MIT",
   "private": true,
