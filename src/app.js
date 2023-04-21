@@ -2,7 +2,7 @@ import { toSentenceCase } from 'js-convert-case';
 
 const attemptDelay = 200;
 const maxWaitForText = 3; //in seconds
-const maxAttempTime = 30; //in seconds
+const maxAttempTime = 15; //in seconds
 
 const maxLoops = (maxWaitForText * 1000) / attemptDelay;
 const maxAttempts = (maxAttempTime * 1000) / attemptDelay;
